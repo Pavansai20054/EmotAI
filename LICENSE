@@ -1,0 +1,102 @@
+MIT License
+
+Copyright (c) 2024-2025 EmotAI Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+EmotAI - AI-Powered Emoji Suggestion System
+Developed by:
+
+- Rangdal Pavansai (Project Lead & AI Developer)
+- Wagmare Sanjana (Frontend Developer & UI/UX)
+- U Sai Hruthvin (Backend Developer & API)
+- P Naga Prabhas (Database & DevOps)
+
+Institution: KG Reddy College of Engineering & Technology
+Academic Year: 2024-25
+
+Project Repository: https://github.com/Pavansai20054/EmotAI
+
+================================================================================
+
+THIRD-PARTY LICENSES AND ACKNOWLEDGMENTS:
+
+This project uses several open-source libraries and services. We acknowledge
+and are grateful for the following projects:
+
+FRONTEND DEPENDENCIES:
+
+- React (MIT License) - https://github.com/facebook/react
+- Framer Motion (MIT License) - https://github.com/framer/motion
+- React Spring (MIT License) - https://github.com/pmndrs/react-spring
+- Styled Components (MIT License) - https://github.com/styled-components/styled-components
+
+BACKEND DEPENDENCIES:
+
+- Flask (BSD-3-Clause License) - https://github.com/pallets/flask
+- SQLAlchemy (MIT License) - https://github.com/sqlalchemy/sqlalchemy
+- Pydantic (MIT License) - https://github.com/pydantic/pydantic
+- TextBlob (MIT License) - https://github.com/sloria/TextBlob
+- Requests (Apache License 2.0) - https://github.com/psf/requests
+- Python-dotenv (BSD License) - https://github.com/theskumar/python-dotenv
+
+AI SERVICES:
+
+- Google Gemini API - https://ai.google.dev/
+  (Subject to Google's Terms of Service and API Usage Policies)
+
+DEVELOPMENT TOOLS:
+
+- pytest (MIT License) - https://github.com/pytest-dev/pytest
+- Docker (Apache License 2.0) - https://github.com/docker/docker-ce
+
+================================================================================
+
+DISCLAIMER:
+
+This software is provided for educational and research purposes. The EmotAI
+team makes no warranties about the accuracy, reliability, or suitability of
+the emoji suggestions provided by this system.
+
+Users are responsible for:
+
+- Obtaining their own API keys for external services (Google Gemini API)
+- Complying with the terms of service of all integrated third-party services
+- Ensuring appropriate use of the software in their specific context
+
+The emoji suggestions are generated using AI models and may not always be
+appropriate for all contexts. Users should review suggestions before use,
+especially in professional or sensitive communications.
+
+================================================================================
+
+CONTACT INFORMATION:
+
+For questions about this license or the EmotAI project:
+
+- Primary Contact: psai49779@gmail.com
+- Support Email: wagmaresanjana5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rangdal-pavansai/
+- Project Repository: https://github.com/Pavansai20054/EmotAI
+
+================================================================================
+
+Last Updated: January 2025

@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+SQLAlchemy
+python-dotenv
+psycopg2-binary
+transformers
+torch
+langdetect
+flask
+flask-cors
+flask_sqlalchemy
+textblob
